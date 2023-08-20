@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559cb5fd5842ff44cb8c01c78cda7838, type: 3}
+  m_Name: TrackSettingsDatabase
+  m_EditorClassIdentifier: 
+  trackSettings:
+    LevelLength: 150
+    XMultiplier: 2.5
+    YMultiplier: 2.5
+    CurveSmoothness: 0.5
+    NoiseStep: 1.4
+    Bottom: 13

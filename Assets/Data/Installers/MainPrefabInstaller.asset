@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 424fdcd65aba9744d82e28328f8700d6, type: 3}
+  m_Name: MainPrefabInstaller
+  m_EditorClassIdentifier: 
+  vehicleSettingsDatabase: {fileID: 11400000, guid: b58533e26b3e5ac43b83bab8e00c601d, type: 2}
+  trackSettingsDatabase: {fileID: 11400000, guid: ecd31eb0f1e295542ba898cd3eff5919, type: 2}
+  canvas: {fileID: 7639541237202281361, guid: fff7a856e9f9b8d428286d79be151039, type: 3}
+  inputView: {fileID: 8761022038654848943, guid: 0eba6437a3a9c15489d4f9d1bbf15f6e, type: 3}
+  vehicleBehaviour: {fileID: 4678626698904547358, guid: 2abb31b9be29fa545b41490f2871d016, type: 3}
+  trackView: {fileID: 4631122783706161481, guid: 129bbfb1e94dc77498df37b3c091609c, type: 3}
+  cinemachineCameraBehaviour: {fileID: 8211867364571312553, guid: f836e5d26d0c94a448cf2740663de611, type: 3}
